@@ -1,0 +1,15 @@
+.section {
+    margin-top: 5%;
+}
+
+.leftwing {
+    float: right;
+    color: #343a40;
+}
+ .leftwing:hover {
+    color: #666b70;
+ }
+
+ .subsection {
+     margin-top: 1.5%;
+ }
